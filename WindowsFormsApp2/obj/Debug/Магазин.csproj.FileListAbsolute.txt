@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Магазин.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Магазин.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Авторизация.resources
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Магазин.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Магазин.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Услуги.resources
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Товары.resources
+C:\Users\admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Клиенты.resources
